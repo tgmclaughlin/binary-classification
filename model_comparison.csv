@@ -1,0 +1,5 @@
+,Custom Logistic Regression,Sklearn Logistic Regression,Random Forest
+Accuracy,68.17999999999999,67.53,73.38
+Precision,55.32,54.55,60.31999999999999
+Recall,48.15,44.440000000000005,70.37
+F1 Score,51.49,48.980000000000004,64.96
